@@ -46,12 +46,12 @@ Depending on media type, records include:
 
 Example Output:
 
-Total products: 41
-Movies: 10
-TV shows: 10
-Video games: 10
-Music albums: 11
-Oldest product: Super Mario Bros. (1985)
+- Total products: 41
+- Movies: 10
+- TV shows: 10
+- Video games: 10
+- Music albums: 11
+- Oldest product: Super Mario Bros. (1985)
 
 
 ---

@@ -63,7 +63,10 @@ Oldest product: Super Mario Bros. (1985)
 - Conditional logic by media type
 - Data aggregation
 - Basic statistical computation
-- Structured object modeling (if used)
+- Structured object modeling 
+- Inheritance and Polymorphism
+- Object modeling from structured CSV data
+- Dynamic object creation based on media type
 
 ---
 
